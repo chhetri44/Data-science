@@ -1,0 +1,40 @@
+Print working directory
+
+pwd
+
+List files
+
+ls
+
+ls /file/path/here
+
+Absolute path starts with /
+relative path can be a name directly
+
+
+Change directory
+
+cd
+cd ..
+
+.. = one directory up
+. = current directory
+~ = home directory
+
+Copy file
+
+cp file1 file2
+
+movefile
+
+mv files driectory
+
+removefile
+
+rm files
+
+remove directory
+rmdir (or -r)
+
+make directory
+mkdir
